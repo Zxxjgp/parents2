@@ -3,13 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/parents.iml" filepath="$PROJECT_DIR$/parents.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vedeng-moudule/sale/sale.iml" filepath="$PROJECT_DIR$/vedeng-moudule/sale/sale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vedeng-module/saas-goods/saas-goods.iml" filepath="$PROJECT_DIR$/vedeng-module/saas-goods/saas-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vedeng-module/saas-sale/saas-sale.iml" filepath="$PROJECT_DIR$/vedeng-module/saas-sale/saas-sale.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-aftersale/vedeng-aftersale.iml" filepath="$PROJECT_DIR$/vedeng-aftersale/vedeng-aftersale.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-common/vedeng-common.iml" filepath="$PROJECT_DIR$/vedeng-common/vedeng-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-finance/vedeng-finance.iml" filepath="$PROJECT_DIR$/vedeng-finance/vedeng-finance.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-goods/vedeng-goods.iml" filepath="$PROJECT_DIR$/vedeng-goods/vedeng-goods.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-logistics/vedeng-logistics.iml" filepath="$PROJECT_DIR$/vedeng-logistics/vedeng-logistics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vedeng-moudule/vedeng-moudule.iml" filepath="$PROJECT_DIR$/vedeng-moudule/vedeng-moudule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vedeng-module/vedeng-module.iml" filepath="$PROJECT_DIR$/vedeng-module/vedeng-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-purchase/vedeng-purchase.iml" filepath="$PROJECT_DIR$/vedeng-purchase/vedeng-purchase.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-sale/vedeng-sale.iml" filepath="$PROJECT_DIR$/vedeng-sale/vedeng-sale.iml" />
       <module fileurl="file://$PROJECT_DIR$/vedeng-utils/vedeng-utils.iml" filepath="$PROJECT_DIR$/vedeng-utils/vedeng-utils.iml" />
