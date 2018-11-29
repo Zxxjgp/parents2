@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sale" />
+        <module name="vedeng-aftersale" />
+        <module name="vedeng-common" />
+        <module name="vedeng-finance" />
+        <module name="vedeng-goods" />
+        <module name="vedeng-logistics" />
+        <module name="vedeng-moudule" />
+        <module name="vedeng-purchase" />
+        <module name="vedeng-sale" />
+        <module name="vedeng-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parents" target="1.8" />
+      <module name="sale" target="1.8" />
+      <module name="vedeng-aftersale" target="1.8" />
+      <module name="vedeng-common" target="1.8" />
+      <module name="vedeng-finance" target="1.8" />
+      <module name="vedeng-goods" target="1.8" />
+      <module name="vedeng-logistics" target="1.8" />
+      <module name="vedeng-moudule" target="1.8" />
+      <module name="vedeng-purchase" target="1.8" />
+      <module name="vedeng-sale" target="1.8" />
+      <module name="vedeng-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
